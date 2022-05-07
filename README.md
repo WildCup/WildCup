@@ -1,0 +1,6 @@
+- Hi, I’m @WildCup
+- I’m programming in C# java and I often use Unity
+- I’m currently learning also C++ Linux and SQL
+- I’m looking for intership/workshops/job 
+- I study at PJATK in Warsaw (Poland) IT in English
+- You can write to my backup email: hubert16206@gmail.com
